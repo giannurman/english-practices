@@ -64,3 +64,13 @@ data/*.js         isi percakapan
 
 Catatan: suara memakai Text-to-Speech bawaan browser/OS. Kualitas suara terbaik biasanya di Edge
 ("Microsoft … Online (Natural)") dan Chrome di Android.
+
+## Tentang konten
+
+Percakapan dan penjelasan dibuat dengan bantuan AI dan sudah ditinjau, tetapi mungkin masih ada
+kesalahan. Menemukan yang keliru? Silakan buka [issue](https://github.com/giannurman/english-practices/issues).
+
+## Lisensi
+
+[MIT](LICENSE) — bebas dipakai, disalin, dan dimodifikasi (termasuk isi percakapan), asalkan
+menyertakan pemberitahuan hak cipta dan lisensi.
