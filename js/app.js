@@ -6,6 +6,7 @@
     family: { name: "Family", nameId: "Keluarga di Rumah", emoji: "🏠", desc: "Ayah, Bunda, Kakak & Adik — percakapan sehari-hari di rumah." },
     kids:   { name: "Kids", nameId: "Untuk Anak", emoji: "🧸", desc: "Kalimat super pendek untuk Adik (3 th) & Kakak (6 th)." },
     office: { name: "Office", nameId: "Kantor — Tech Lead", emoji: "💼", desc: "Stand-up, code review, 1-on-1, incident, dan lainnya." },
+    casual: { name: "Office Casual", nameId: "Kantor — Santai", emoji: "☕", desc: "Obrolan pantry, makan siang, hobi, dan momen kantor." },
   };
 
   const ROLE_META = {
@@ -26,6 +27,9 @@
     Candidate: { emoji: "🙋", bg: "#fef3c7", fg: "#b45309" },
     "New Hire": { emoji: "🌱", bg: "#fef3c7", fg: "#b45309" },
     Director:  { emoji: "👔", bg: "#ede9fe", fg: "#6d28d9" },
+    Sarah:     { emoji: "🌻", bg: "#fef9c3", fg: "#a16207" },
+    Dimas:     { emoji: "⚽", bg: "#ccfbf1", fg: "#0f766e" },
+    Waiter:    { emoji: "🍽️", bg: "#f1f5f9", fg: "#475569" },
   };
   const FALLBACK_ROLE = { emoji: "🙂", bg: "#f1f5f9", fg: "#475569" };
 
